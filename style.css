@@ -1,0 +1,23 @@
+body{
+     background-color: #e1e5ea;
+
+  }
+hr{
+
+    border-color: grey;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 6%;
+
+}
+h1
+{
+  color: dodgerblue;
+
+
+}
+h3{
+  color: darkblue;
+  font-family: cursive;
+}
